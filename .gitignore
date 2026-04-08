@@ -1,0 +1,15 @@
+node_modules
+dist
+release
+.vite
+coverage
+.DS_Store
+Thumbs.db
+*.log
+*.tsbuildinfo
+appData
+*.enc
+prompt.md
+.tmp_app_capture*.png
+.idea
+*.iml
